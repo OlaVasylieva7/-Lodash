@@ -18,11 +18,11 @@ sliderInput.addEventListener("input", debouncedChangeImageSize);
 
 // const box = document.getElementById('box');
 
-// function moveBox(e) {
+// function navigateBox(e) {
 //     box.style.left = e.clientX + 'px';
 //     box.style.top = e.clientY + 'px';
 // }
 
-// const debouncedMoveBox = _.debounce(moveBox, 100);
+// const debouncedNavigateBox = _.debounce(navigateBox, 100);
 
-// document.addEventListener('mousemove', debouncedMoveBox);
+// document.addEventListener('mousemove', debouncedNavigateBox);
